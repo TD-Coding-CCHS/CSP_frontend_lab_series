@@ -39,11 +39,7 @@ schoolName = "Leewood K-8" // not possible, gives error
 /* ===========================================================
    🎟 EXIT TICKET
    1. What new concept or skill did you learn in this lab?
-      I learned that I could define a variable with let, and *then* give it a value. Unlike before when I would define it and give it a value.
    2. How did you apply logic or conditionals in your code?
-      (SKIP)
    3. What challenges did you encounter, and how did you solve them?
-      One problem I had was in line 21, where I accidentally define mystery with quotations, which made it a string, when I needed it to be a number.
    4. Where else could this programming concept be useful?
-      This are the basics of JavaScript coding, so quite literally anywhere that JavaScript is needed, these concepts must be known and used.
    =========================================================== */
