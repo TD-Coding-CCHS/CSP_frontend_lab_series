@@ -1,7 +1,7 @@
 # Guided Practice — Lab 1.1 (Intro)
 
-1) Predict the output:
-```js
+1) Predict the output: 
+```js 
 let x = 5;
 let y = "5";
 console.log(x + y);

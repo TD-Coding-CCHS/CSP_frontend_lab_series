@@ -2,7 +2,7 @@
 
 Define each term and include one example.
 
-- **variable** —
+- **variable** — 
 - **string** —
 - **number** —
 - **console.log** —
