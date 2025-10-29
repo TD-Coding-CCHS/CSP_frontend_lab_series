@@ -20,4 +20,4 @@ let areaT = (a * b)/2
 
 console.log(`the area of the triangle is ${areaT}`)
 
-console.log(((-1 * b) + Math.sqrt((b ** exponent1)) + (4 * a * c)))
+console.log(((-1 * b) + Math.sqrt((b ** exponent1) + (4 * a * c))))
