@@ -7,8 +7,13 @@
 // let isReady = ?;
 // let missingValue = ?;
 // let notAssigned;
+let isReady = true;
+let missingValue = null;
+let notAssigned;
 
 // TODO 2: Log typeof for each variable.
+cos
+
 
 // TODO 3: Demonstrate == vs === using examples with "5" and 5.
 

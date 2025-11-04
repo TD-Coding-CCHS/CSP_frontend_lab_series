@@ -5,8 +5,17 @@
 
 // 1️⃣ Primitive Types
 // Declare one variable for each primitive type: string, number, boolean, null, undefined.
+let string = 34
+let number = "34"
+let boolean = "six seven amirite?"
+// let null = 41
+// let undefined = 90
 // Print each variable and its type using typeof.
-
+console.log(typeof string)
+console.log(typeof number)
+console.log(typeof boolean)
+// console.log(typeof )
+// console.log(typeof )
 
 // 2️⃣ Typeof Check
 // Compare typeof null and typeof undefined.
